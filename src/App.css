@@ -1,0 +1,21 @@
+*{
+  font-size: 20px;
+  color: rgb(24, 48, 58);
+  text-shadow: 2px 2px 4px #4599a8;
+}
+.App{
+  margin:0  100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  background-image: url("./App.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:600px;
+}
+Form  {
+  padding: 20px 50px;
+  box-shadow: 5px 5px 8px rgb(140, 218, 238), 10px 10px 8px rgb(247, 115, 177), 15px 15px 8px rgb(199, 238, 70);
+}
